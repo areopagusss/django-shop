@@ -1,1 +1,1 @@
-# Django-Tree-Navigation
+# django-shop
